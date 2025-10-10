@@ -1,13 +1,15 @@
 Code from manuscript: 'Where regenerative farming practices could increase yields: A global assessment'
-Kpade O. L. Hounkpatin1, Emanuela De Giorgi, Mika Jalava, Jeroen Poelert, Paul C. West, Matti Kummu1
+
+Kpade O. L. Hounkpatin, Emanuela De Giorgi, Mika Jalava, Jeroen Poelert, Paul C. West, Matti Kummu
 
 The ananlysis is composed of .... R scripts:
 
 1) ....
+   
 2) ...
+   
 3) ...
-4) 
-
+   
 
 Software requirements
 
