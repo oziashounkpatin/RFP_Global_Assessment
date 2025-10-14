@@ -30,6 +30,6 @@ tidyverse, dplyr, readxl, writexl, data.table, purrr, mltools, mice
 - **Spatial data processing:**
   - `terra` (1.7.71), `sf` (1.0.12), `tidyterra` (0.5.1)
 - **Visualization:**
-  - `ggplot2` (3.5.1), `latticeExtra` (0.6.30), `gridExtra` (2.3)
+  - `ggplot2` (3.5.1), `latticeExtra` (0.6.30), `gridExtra` (2.3), `tmap` (4)
 - **Parallel computing:**
   - `doParallel` (1.0.17)
