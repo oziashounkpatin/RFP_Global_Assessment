@@ -21,14 +21,15 @@ Used other R packages and their versions:
 Core data handling:
 tidyverse, dplyr, readxl, writexl, data.table, purrr, mltools, mice
 
-Modeling and validation:
-caret, CAST, ranger, yardstick, corrtable, fastshap, shapviz
+**Here’s a combined list of all R packages used across the _regression_, _uncertainty_, and _Shapley value_ scripts:**
 
-Spatial data processing:
-terra, sf, tidyterra
-
-Visualization:
-ggplot2, latticeExtra, gridExtra
-
-Parallel computing:
-doParallel
+- **Core data handling:**
+  - `tidyverse` (2.0.0), `dplyr` (1.1.2), `readxl` (1.4.2), `writexl` (1.4.2), `data.table` (1.15.4), `purrr` (1.0.1), `mltools` (0.3.5), `mice` (3.16.0)
+- **Modeling and validation:**
+  - `caret` (6.0.94), `CAST` (1.0.2), `ranger` (0.16.0), `yardstick` (1.3.1), `corrtable` (0.1.1), `fastshap` (0.1.1), `shapviz` (0.9.3)
+- **Spatial data processing:**
+  - `terra` (1.7.71), `sf` (1.0.12), `tidyterra` (0.5.1)
+- **Visualization:**
+  - `ggplot2` (3.5.1), `latticeExtra` (0.6.30), `gridExtra` (2.3)
+- **Parallel computing:**
+  - `doParallel` (1.0.17)
