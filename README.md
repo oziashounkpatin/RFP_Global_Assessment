@@ -21,7 +21,7 @@ Used other R packages and their versions:
 Core data handling:
 tidyverse, dplyr, readxl, writexl, data.table, purrr, mltools, mice
 
-**Here’s a combined list of all R packages used across the _regression_, _uncertainty_, and _Shapley value_ scripts:**
+**Other packages:**
 
 - **Core data handling:**
   - `tidyverse` (2.0.0), `dplyr` (1.1.2), `readxl` (1.4.2), `writexl` (1.4.2), `data.table` (1.15.4), `purrr` (1.0.1), `mltools` (0.3.5), `mice` (3.16.0)
