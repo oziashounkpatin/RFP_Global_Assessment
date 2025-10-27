@@ -15,15 +15,19 @@ The step 3 script produces the global map (Figure 3) of most suitable regenerati
 The step 4 script produces the global map (Figure 3) of most suitable regenerative farming practices for maize, wheat, cereal, vegetables, fruits and others. The additional Step4_Figure_4_Supplementary Table 2 script generates Supplementary Table 2: Percentage of suitability coverage at a global and regional scale across these crop groups. The same Step4_Figure_4_es_unc script also produces Supplementary Figure 10 when no biome is applied. 
 
  **5. Study area**
+ 
  The step5 Figure_5_study_area script generates Figure 4 (Study area): global point maps of field observations for AF, CC, NT, OF.
 
   **6. Pearson correlations**
+  
  The step6 Supplementary Table 3 script produces Supplementary Table 3: Pearson correlations between each predictor and the effect size across all models (AF, CC, NT, OF by crop groups), with significance flags (* p≤0.05, ** p≤0.01, *** p≤0.001).
 
  **7. Modelling accuracy metrics**
+ 
  The step7 Supplementary Table 4 script produces Supplementary Table 4: Random Forest accuracy metrics (RMSE, R², Lin’s CCC) for Training and Validation across AF, CC, NT, OF and crop groups.
 
 **8. Additional information**
+
  Other figures (e.g., Figure 2, Supplementary Figure 1-2) — Variable importance and partial dependence plots for key predictors of different regenerative farming practices (RFPs) — were created in Adobe Illustrator based on the Shapley value maps generated in Step 1. Supplementary Figure 4-7 were also assembled in Adobe Illustrator based on the ffect size prdoduced in step accross AF, CC, NT, OF. and crop groups.
    
 
