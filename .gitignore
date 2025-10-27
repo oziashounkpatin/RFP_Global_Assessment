@@ -40,6 +40,8 @@ input2/
 input/
 output/
 My_own_functions/
+renv/
+ref_data/
 to be removed/
 memory_git.txt
 local_nt_extreme_launcher.R
