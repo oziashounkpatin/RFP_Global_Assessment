@@ -5,7 +5,8 @@
 **1. Regression, uncertainties and Shapley values**  
 The pipelines step1— RFP1_AF_es_unc, RFP2_CC_es_unc, RFP3_NT_es_unc, RFP4_OF_es_unc — train a spatially cross-validated Random Forest for each practice (AF, CC, NT, OF) to model effect sizes and generate spatial predictions across the analysis grid. It then quantifies predictive uncertainty using a quantile Random Forest to derive lower and upper bounds and their 90% interval via tiled prediction and mosaicking. Finally, it computes Shapley values to assess feature importance, providing both aggregate rankings and individual-effect visualizations.
 
-3) ...
+ **2. Spatial distribution of the effect size and related uncertainty**  
+ This step2 script generates Figure 1 of the manuscript — the global map of effect sizes and uncertainties for regenerative agriculture practices — by combining ES / UNC rasters, applying cropland and biome masks, and exporting final maps and summary plots. The additional Step2_Figure_1_Supplementary Table 1 generates Supplementary Table 1: % cropland by ES sign ( <0 / >0 ) and uncertainty level (low/medium/high) for AF, CC, NT, OF from the Figure 1 raster.
    
 4) ...
    
