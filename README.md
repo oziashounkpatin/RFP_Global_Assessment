@@ -32,7 +32,7 @@ The step 4 script produces the global map (Figure 3) of most suitable regenerati
 
 **8. Additional information**
 
- Other figures (e.g., Figure 2, Supplementary Figure 1-2) — Variable importance and partial dependence plots for key predictors of different regenerative farming practices (RFPs) — were created in Adobe Illustrator based on the Shapley value maps generated in Step 1. Supplementary Figure 4-7 were also assembled in Adobe Illustrator based on the ffect size prdoduced in step accross AF, CC, NT, OF. and crop groups.
+ Other figures (e.g., Figure 2, Supplementary Figure 1-2) — Variable importance and partial dependence plots for key predictors of different regenerative farming practices (RFPs) — were created in Adobe Illustrator based on the Shapley value maps generated in Step 1. Supplementary Figure 4-7 were also assembled in Adobe Illustrator based on the effect size produced in step1 accross AF, CC, NT, OF. and crop groups.
    
 
 Software requirements
