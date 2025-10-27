@@ -3,7 +3,7 @@
 *Kpade O. L. Hounkpatin, Emanuela De Giorgi, Mika Jalava, Jeroen Poelert, Paul C. West, Matti Kummu*
 
 **1. Regression, uncertainties and Shapley values**  
-The pipelines — RFP1_AF_es_unc, RFP2_CC_es_unc, RFP3_NT_es_unc, RFP4_OF_es_unc — train a spatially cross-validated Random Forest for each practice (AF, CC, NT, OF) to model effect sizes and generate spatial predictions across the analysis grid. It then quantifies predictive uncertainty using a quantile Random Forest to derive lower and upper bounds and their 90% interval via tiled prediction and mosaicking. Finally, it computes Shapley values to assess feature importance, providing both aggregate rankings and individual-effect visualizations.
+The pipelines step1— RFP1_AF_es_unc, RFP2_CC_es_unc, RFP3_NT_es_unc, RFP4_OF_es_unc — train a spatially cross-validated Random Forest for each practice (AF, CC, NT, OF) to model effect sizes and generate spatial predictions across the analysis grid. It then quantifies predictive uncertainty using a quantile Random Forest to derive lower and upper bounds and their 90% interval via tiled prediction and mosaicking. Finally, it computes Shapley values to assess feature importance, providing both aggregate rankings and individual-effect visualizations.
 
 3) ...
    
