@@ -37,7 +37,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 input2/
-input/
 output/
 My_own_functions/
 renv/
